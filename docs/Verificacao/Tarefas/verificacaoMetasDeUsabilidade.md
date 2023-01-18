@@ -1,8 +1,8 @@
 # Verificação da Metas de Usabilidade
 ## <a>Histórico de Versão</a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                      |                  Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :----------------------------------------: |
-| 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Eduardo](https://github.com/edudsan) | [-](https://github.com/) |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                 Autor                 |                  Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------: | :----------------------------------------: |
+| 17/01/2023 |        18/01/2023        |  1.0   | Criação do documento | [Eduardo](https://github.com/edudsan) | [João Lucas](https://github.com/HacKairos) |
 
 ## <a>Introdução</a>
 O presente documento tem como objetivo realizar a verificação do artefato [Metas de Usabilidade](../../Tarefas/GuiaDeEstilo.md), produzido pela nossa equipe durante o semestre 2022.2. A versão avaliada do documento foi a 1.0 e, portanto, espera-se que futuras versões apresentem os apontamentos presentes na verificação corrigidos. A técnica de inspeção será utilizada para realizar esse processo, jutamente com um checklist baseado no capítulo 8 do livro de IHC do Barbosa e Silva. [1]
@@ -23,16 +23,16 @@ As questões utilizadas para o checklist estão na tabela 1 abaixo:
 
 <center>
   
-|  ID   |                           Questão                           | Inspeção |
-| :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?                         |          |
-|   2   |    O artefato deixa ecidente os seus objetivos?             |          |
-|   3   |    É apresentado as metas de usabilidade do site?           |          |
-|   4   |    É apresentado o objetivos da usabilidade?                |          |
-|   5   |    Possui requisitos de usabilidade?                        |          |
-|   6   |    Possui metas a serem cumpridas?                          |          |
-|   7   |    Possui histórico de versão?                              |          |
-|   8   |    Possui bibliografia?                                     |          |
+|  ID   |                    Questão                     | Inspeção |
+| :---: | :--------------------------------------------: | :------: |
+|   1   |        A metodologia está bem definida?        |          |
+|   2   |  O artefato deixa evidente os seus objetivos?  |          |
+|   3   | É apresentado as metas de usabilidade do site? |          |
+|   4   |   É apresentado o objetivos da usabilidade?    |          |
+|   5   |       Possui requisitos de usabilidade?        |          |
+|   6   |        Possui metas a serem cumpridas?         |          |
+|   7   |          Possui histórico de versão?           |          |
+|   8   |              Possui bibliografia?              |          |
   
 *Tabela 1 - Checklist planejado*
 
@@ -44,16 +44,16 @@ Na tabela 2, há o checklist efetivado do artefato na versão 1.0:
 
 <center>
 
-|  ID   |                           Questão                           | Inspeção |
-| :---: | :---------------------------------------------------------: | :------: |
-|   1   |    A metodologia está bem definida?                         |    🟢     |
-|   2   |    O artefato deixa ecidente os seus objetivos?             |    🟢     |
-|   3   |    É apresentado as metas de usabilidade do site?           |    🟢     |
-|   4   |    É apresentado o objetivos da usabilidade?                |    🟢     |
-|   5   |    Possui requisitos de usabilidade?                        |    🟢     |
-|   6   |    Possui metas a serem cumpridas?                          |    🟢     |
-|   7   |    Possui histórico de versão?                              |    🟢     |
-|   8   |    Possui bibliografia?                                     |    🟢     |
+|  ID   |                    Questão                     | Inspeção |
+| :---: | :--------------------------------------------: | :------: |
+|   1   |        A metodologia está bem definida?        |    🟢     |
+|   2   |  O artefato deixa ecidente os seus objetivos?  |    🟢     |
+|   3   | É apresentado as metas de usabilidade do site? |    🟢     |
+|   4   |   É apresentado o objetivos da usabilidade?    |    🟢     |
+|   5   |       Possui requisitos de usabilidade?        |    🟢     |
+|   6   |        Possui metas a serem cumpridas?         |    🟢     |
+|   7   |          Possui histórico de versão?           |    🟢     |
+|   8   |              Possui bibliografia?              |    🟢     |
   
 *Tabela 2 - Checklist efetivado*
 
