@@ -70,7 +70,7 @@ nav:
       - 7ª Reunião: Reunioes/Atas/Reuniao7.md
   - Análise de Requisitos:
     - Análise de Tarefas: Tarefas/Analise.md
-    - Perfil de Usúarios: Tarefas/perfilUsuario.md
+    - Perfil de Usuário: Tarefas/perfilUsuario.md
     - Personas: Tarefas/personas.md
     - Cenários: Tarefas/Cenario.md
     - Metas de Usabilidade: Tarefas/MetasUsabilidade.md
@@ -117,7 +117,7 @@ nav:
       - Termo de Consentimento: Verificacao/Planejamento/termoConsentimento.md
     - Análise de Requisitos:
       - Análise de Tarefas: Verificacao/Tarefas/AnaliseDeTarefas.md
-      - Perfil de Usúario: Verificacao/Tarefas/VerificacaoPerfilUsuario.md
+      - Perfil de Usuário: Verificacao/Tarefas/VerificacaoPerfilUsuario.md
       - Cenários: Verificacao/Tarefas/VerificacaoCenarios.md
       - Princípios Gerais: Verificacao/Tarefas/principiosGerais.md
       - Metas de Usabilidade: Verificacao/Tarefas/verificacaoMetasDeUsabilidade.md
