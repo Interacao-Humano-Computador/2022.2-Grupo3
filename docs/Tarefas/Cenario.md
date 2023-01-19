@@ -152,6 +152,7 @@ Tabela 9 - Cenário 008<br></br><br>
 | **Exceção**     | _CNPJ invalido<br>Não ter acesso ao smartphone/computador<br>Internet indisponivel<br>Não ter cadastrado o banco no Simples Nacional._ |
 
 Tabela 10 - Cenário 009<br></br><br>
+
 | **Cenário**     | **010** |
 | :--------------:| :-------------- |
 | **Titulo**      | _Gerar Relatório sobre as Declarações._ |
